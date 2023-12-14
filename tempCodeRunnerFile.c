@@ -1,0 +1,1 @@
+(int *)malloc(n*sizeof(int));
